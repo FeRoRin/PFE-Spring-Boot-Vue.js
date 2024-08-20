@@ -162,4 +162,20 @@ This report presents the development of an online purchase management applicatio
 - **Classe principale / Main Class**
 - **Dossiers de ressources / Resources Folders**
 - **Tests**
-- **Dossiers de
+- **Dossiers de documentation (optionnels) / Documentation Folders (optional)**
+- **Dossiers de configuration (optionnels) / Configuration Folders (optional)**
+
+## Interface du Site Web / Website Interface
+
+- **Le Logo / Logo**
+- **Quelques Interfaces de l'Application / Some Application Interfaces**
+  - Page d'accueil / Homepage
+  - Interface d'authentification / Authentication Interface
+  - Page d'inscription / Registration Page
+  - Liste des produits et commandes / Product and Order List
+
+## Conclusion
+
+Ce projet nous a permis de mettre en pratique nos compétences en SQL, Vue.js, et Spring Boot, et d'améliorer notre travail en équipe. Nous avons développé une application de gestion d'achat en ligne fonctionnelle et avons appris de nouvelles techniques et fonctionnalités au cours de ce projet.
+
+This project allowed us to put into practice our skills in SQL, Vue.js, and Spring Boot, and improve our teamwork. We have developed a functional online purchase management application and learned new techniques and features throughout this project.

@@ -2,45 +2,9 @@
 
 ## Description
 
-Ce projet est une application de gestion d'achat en ligne développée dans le cadre du projet de fin d'études pour l'année académique 2022-2023 à l'École Nationale des Sciences Appliquées (ENSA) de Tanger. L'application permet aux utilisateurs d'acheter des produits en ligne, de gérer leurs commandes, et offre une interface pour les administrateurs afin de gérer les produits, les commandes et les utilisateurs.
+Ce projet est une application de gestion d'achat en ligne. L'application permet aux utilisateurs d'acheter des produits en ligne, de gérer leurs commandes, et offre une interface pour les administrateurs afin de gérer les produits, les commandes et les utilisateurs.
 
-This project is an online purchase management application developed as a final year project for the 2022-2023 academic year at the École Nationale des Sciences Appliquées (ENSA) of Tangier. The application allows users to purchase products online, manage their orders, and provides an interface for administrators to manage products, orders, and users.
-
-## Table des Matières / Table of Contents
-
-- [Remerciements / Acknowledgments](#remerciements--acknowledgments)
-- [Introduction](#introduction)
-- [Cahier des Charges / Requirements Specification](#cahier-des-charges--requirements-specification)
-  - [Partie Utilisateur / User Side](#partie-utilisateur--user-side)
-  - [Partie Administrateur / Administrator Side](#partie-administrateur--administrator-side)
-- [Conception et Analyse du Projet / Project Design and Analysis](#conception-et-analyse-du-projet--project-design-and-analysis)
-  - [Analyse / Analysis](#analyse--analysis)
-  - [Cas d'Utilisation : Passer une Commande / Use Case: Place an Order](#cas-dutilisation--passer-une-commande--use-case-place-an-order)
-  - [Diagramme de Séquence : Passer une Commande / Sequence Diagram: Place an Order](#diagramme-de-séquence--passer-une-commande--sequence-diagram-place-an-order)
-- [Conception Architecturale / Architectural Design](#conception-architecturale--architectural-design)
-  - [Architecture Logique / Logical Architecture](#architecture-logique--logical-architecture)
-  - [Architecture Physique / Physical Architecture](#architecture-physique--physical-architecture)
-- [Conception de la Base de Données / Database Design](#conception-de-la-base-de-données--database-design)
-  - [Entités Principales / Main Entities](#entités-principales--main-entities)
-  - [Relations / Relationships](#relations--relationships)
-- [Réalisation / Implementation](#réalisation--implementation)
-  - [Environnement Logiciel / Software Environment](#environnement-logiciel--software-environment)
-  - [Outils de Développement Utilisés / Development Tools Used](#outils-de-développement-utilisés--development-tools-used)
-  - [Structure du Projet / Project Structure](#structure-du-projet--project-structure)
-- [Interface du Site Web / Website Interface](#interface-du-site-web--website-interface)
-- [Conclusion](#conclusion)
-
-## Remerciements / Acknowledgments
-
-Nous tenons à exprimer notre sincère gratitude envers nos enseignants de la formation DCA Génie Informatique à l'ENSA de Tanger pour leur soutien tout au long de l'année. Un grand merci également à nos camarades de classe pour leur collaboration et leur esprit d'équipe.
-
-We would like to express our sincere gratitude to our teachers from the DCA Computer Engineering program at ENSA Tangier for their support throughout the year. A big thank you also to our classmates for their collaboration and team spirit.
-
-## Introduction
-
-Ce rapport présente le développement d'une application de gestion d'achat en ligne. Il couvre les étapes de conception, développement, et réalisation de l'application, mettant en lumière les défis rencontrés, les solutions apportées, ainsi que les technologies et méthodologies utilisées.
-
-This report presents the development of an online purchase management application. It covers the design, development, and implementation phases of the application, highlighting the challenges encountered, solutions provided, and the technologies and methodologies used.
+This project is an online purchase management application. The application allows users to purchase products online, manage their orders, and provides an interface for administrators to manage products, orders, and users.
 
 ## Cahier des Charges / Requirements Specification
 
@@ -88,13 +52,13 @@ This report presents the development of an online purchase management applicatio
 
 ### Analyse / Analysis
 
-1. **Analyse des Besoins / Needs Analysis**
-2. **Spécifications Fonctionnelles / Functional Specifications**
-3. **Conception de la Base de Données / Database Design**
-4. **Architecture Logicielle / Software Architecture**
-5. **Conception de l'Interface Utilisateur (UI) / User Interface (UI) Design**
-6. **Sécurité / Security**
-7. **Plan de Test / Testing Plan**
+- **Analyse des Besoins / Needs Analysis**
+- **Spécifications Fonctionnelles / Functional Specifications**
+- **Conception de la Base de Données / Database Design**
+- **Architecture Logicielle / Software Architecture**
+- **Conception de l'Interface Utilisateur (UI) / User Interface (UI) Design**
+- **Sécurité / Security**
+- **Plan de Test / Testing Plan**
 
 ### Cas d'Utilisation : Passer une Commande / Use Case: Place an Order
 
